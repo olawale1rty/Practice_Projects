@@ -1,5 +1,8 @@
-# Practice_Projects
+# Project Title
+
 This is a list of different projects i have worked on for practice.
+
+## Project Info
 
 Cats-theme: This is a wordpress theme development project files.
 
@@ -12,3 +15,9 @@ Happy--birthday: A dynamic mobile theme project for birthday.
 Web: A django backend practice project.
 
 Web01: A django backend practice project.
+
+
+
+
+
+
