@@ -8,14 +8,15 @@ Cats-theme: This is a wordpress theme development project files.
 
 Cookie: Html and Css theme practice project.
 
-Monthly-resolutions: Html and Css theme project.
+Monthly-resolutions: Html and Css theme practice projectfor planning your month.
 
 Happy--birthday: A dynamic mobile theme project for birthday.
 
-Web: A django backend practice project.
+Web: A django backend practice project for blog site.
 
-Web01: A django backend practice project.
+aircnc: A dynamic and responsive theme for selling dogs.
 
+GiphySearch: A site to search for any gifs you want.
 
 
 

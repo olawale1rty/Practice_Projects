@@ -1,0 +1,19 @@
+{
+  "name": "analyze_excel",
+  "version": "1.0.0",
+  "description": "Analyzing excel sheet in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "node.js"
+  ],
+  "author": "Mustapha Moshood Olawale",
+  "license": "MIT",
+  "dependencies": {
+    "read-excel-file": "^4.0.5",
+    "unzip2": "^0.2.5"
+  }
+}
