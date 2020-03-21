@@ -16,7 +16,9 @@ Web: A django backend practice project for blog site.
 
 aircnc: A dynamic and responsive theme for selling dogs.
 
-GiphySearch: A site to search for any gifs you want.
+GiphySearch: An app to search for any gifs you want.
+
+Sound Cloud: An app to search for music and play music.
 
 
 
