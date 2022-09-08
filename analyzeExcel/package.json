@@ -13,7 +13,7 @@
   "author": "Mustapha Moshood Olawale",
   "license": "MIT",
   "dependencies": {
-    "read-excel-file": "^4.0.5",
+    "read-excel-file": "^4.1.0",
     "unzip2": "^0.2.5"
   }
 }
